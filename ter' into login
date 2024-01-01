@@ -1,0 +1,42 @@
+[33mcommit 180075a162464458a2a604f7d9f9f62b233fcbce[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m)[m
+Merge: b3e0a9a 9f57878
+Author: Your Name <you@example.com>
+Date:   Sun Dec 31 14:08:01 2023 -0400
+
+    Merge branch 'master' into login
+
+[33mcommit 9f57878c5d82a1435b0c5b73c419720515a6bc8c[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Sun Dec 31 13:43:33 2023 -0400
+
+    Git 3 v2
+
+[33mcommit b3e0a9a9648f45a9c07a517d5c3f231e7e98ee7b[m
+Author: Your Name <you@example.com>
+Date:   Sun Dec 31 13:22:44 2023 -0400
+
+    Login
+
+[33mcommit 19cdcff21fd9d2ef8c922296ed1e28da26868cd8[m
+Author: Your Name <you@example.com>
+Date:   Sun Dec 31 11:50:01 2023 -0400
+
+    este es mi quinto commit
+
+[33mcommit e530a7ab485664e60d32a51bcbd5172f39dceb9c[m[33m ([m[1;33mtag: [m[1;33mclase__1[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Fri Dec 29 15:26:05 2023 -0400
+
+    Este es mi tercer commit
+
+[33mcommit d06e4822ae37365b3fc49be6eb018898fc28249b[m
+Author: Your Name <you@example.com>
+Date:   Fri Dec 29 11:20:58 2023 -0400
+
+    Este es mi segundo commit
+
+[33mcommit 62809c03e4b46e42f9e4d6c0373df323357d28e5[m
+Author: Your Name <you@example.com>
+Date:   Fri Dec 29 10:24:36 2023 -0400
+
+    Este es mi primer commit
